@@ -22,9 +22,6 @@ It highlights my **skills, projects, experiences, certifications, and achievemen
 - **Font Awesome** (icons)  
 - **Google Fonts** (Poppins for typography)
 
-## 📸 Preview
-![Portfolio Screenshot](https://raw.githubusercontent.com/Aayush0987/portfolio/main/assets/images/preview.jpg)
-
 ## ⚡ Deployment
 The website is deployed using **GitHub Pages**.  
 Follow these steps to deploy your own portfolio:
