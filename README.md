@@ -6,12 +6,6 @@ It highlights my **skills, projects, experiences, certifications, and achievemen
 ## 🚀 Live Website
 🔗 [Visit Portfolio](https://aayushkumar.github.io)
 
-## 📂 Project Structure
-├── index.html         # Main portfolio file
-├── assets/            # Images, icons, etc.
-│   └── images/        # Profile picture & project images
-├── .gitignore         # Ignore unnecessary files
-└── README.md          # Project documentation
 
 ## 🛠️ Features
 - Responsive design (mobile + desktop friendly)
