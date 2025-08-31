@@ -4,7 +4,7 @@ This is my **personal portfolio website**, built with HTML, CSS, and JavaScript.
 It highlights my **skills, projects, experiences, certifications, and achievements**.
 
 ## 🚀 Live Website
-🔗 [Visit Portfolio](https://aayushkumar.github.io)
+🔗 [Visit Portfolio](https://aayush0987.github.io/portfolio/)
 
 
 ## 🛠️ Features
@@ -23,7 +23,7 @@ It highlights my **skills, projects, experiences, certifications, and achievemen
 - **Google Fonts** (Poppins for typography)
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/images/profile.jpg)
+![Portfolio Screenshot](assets/images/preview.jpg)
 
 ## ⚡ Deployment
 The website is deployed using **GitHub Pages**.  
