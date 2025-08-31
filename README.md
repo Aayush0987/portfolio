@@ -23,7 +23,7 @@ It highlights my **skills, projects, experiences, certifications, and achievemen
 - **Google Fonts** (Poppins for typography)
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/images/preview.jpg)
+![Portfolio Screenshot](https://raw.githubusercontent.com/Aayush0987/portfolio/main/assets/images/preview.jpg)
 
 ## ⚡ Deployment
 The website is deployed using **GitHub Pages**.  
@@ -35,4 +35,4 @@ Follow these steps to deploy your own portfolio:
 ## 📧 Contact
 - **Email**: [kumaraayush02@yahoo.com](mailto:kumaraayush02@yahoo.com)  
 - **LinkedIn**: [linkedin.com/in/aayush-kumar-95871b204](https://linkedin.com/in/aayush-kumar-95871b204)  
-- **GitHub**: [github.com/AayushKumar](https://github.com/AayushKumar)
+- **GitHub**: [github.com/AayushKumar](https://github.com/Aayush0987)
